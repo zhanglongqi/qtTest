@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/open.png</file>
+        <file>res/changeColor.png</file>
+        <file>res/a.png</file>
+        <file>res/c.png</file>
+        <file>res/b.png</file>
+        <file>res/emotes/face-angel.png</file>
+        <file>res/emotes/face-cool.svg</file>
+        <file>res/emotes/face-embarrassed.png</file>
+        <file>res/emotes/face-kiss.png</file>
+        <file>res/emotes/face-laugh.png</file>
+        <file>res/emotes/face-plain.png</file>
+        <file>res/emotes/face-plain.svg</file>
+        <file>res/emotes/face-raspberry.png</file>
+        <file>res/emotes/face-red.svg</file>
+        <file>res/emotes/face-sad.png</file>
+        <file>res/emotes/face-sad.svg</file>
+        <file>res/emotes/face-smile.png</file>
+        <file>res/emotes/face-smile.svg</file>
+        <file>res/emotes/face-smile-big.png</file>
+        <file>res/emotes/face-smile-big.svg</file>
+        <file>res/emotes/face-surprise.png</file>
+        <file>res/emotes/face-surprise.svg</file>
+        <file>res/emotes/face-uncertain.png</file>
+        <file>res/emotes/face-wink.png</file>
+        <file>res/emotes/face-wink.svg</file>
+    </qresource>
+</RCC>
